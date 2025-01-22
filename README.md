@@ -15,7 +15,7 @@ This is a Python script that generates a secure random password based on user-de
 ### Basic Command:
 To run the script, use the following command in your terminal:
 
-python password_generator.py <password length>
+python password_generator.py `<password length>`
 
 Where `<password length>` is the desired length of the generated password.
 
